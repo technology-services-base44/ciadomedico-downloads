@@ -1,14 +1,16 @@
 <div align="center">
 
-# Cia do Médico — Sistemas
+<img src="imagens/logo.png" alt="Cia do Médico" width="320">
 
-Programas para Windows da Cia do Médico: **Financeiro** e **Repasses de Convênios**.
+# Programas da Cia do Médico
 
-[![Baixar o Financeiro](https://img.shields.io/badge/Baixar-Financeiro%20v2.0.2-1F5FD1?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/cia-do-medico-sistemas/releases/download/financeiro-v2.0.2/CiaDoMedico-Financeiro-v2.0.2.zip)
+**Financeiro** e **Repasses de Convênios** para Windows — baixe, extraia e use.
+
+[![Baixar o Financeiro](https://img.shields.io/badge/Baixar-Financeiro%20v2.0.2-1F5FD1?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/ciadomedico-downloads/releases/download/financeiro-v2.0.2/CiaDoMedico-Financeiro-v2.0.2.zip)
 &nbsp;
-[![Baixar o Repasses de Convênios](https://img.shields.io/badge/Baixar-Repasses%20de%20Conv%C3%AAnios%20v1.2.1-059669?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/cia-do-medico-sistemas/releases/download/convenios-v1.2.1/CiaDoMedico-Repasses-v1.2.1.zip)
+[![Baixar o Repasses de Convênios](https://img.shields.io/badge/Baixar-Repasses%20de%20Conv%C3%AAnios%20v1.2.1-059669?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/ciadomedico-downloads/releases/download/convenios-v1.2.1/CiaDoMedico-Repasses-v1.2.1.zip)
 
-<sub>Windows 10 ou 11 · cerca de 60 MB cada · todas as versões em <a href="https://github.com/technology-services-base44/cia-do-medico-sistemas/releases">Releases</a></sub>
+<sub>Windows 10 ou 11 · cerca de 60 MB cada · todas as versões em <a href="https://github.com/technology-services-base44/ciadomedico-downloads/releases">Releases</a></sub>
 
 </div>
 
@@ -29,7 +31,7 @@ Programas para Windows da Cia do Médico: **Financeiro** e **Repasses de Convên
 
 Os dois programas instalam do mesmo jeito. Não precisa de instalador nem de permissão de administrador.
 
-1. **Baixe** o programa no botão lá em cima (ou em [Releases](https://github.com/technology-services-base44/cia-do-medico-sistemas/releases)). Vem um arquivo `.zip`.
+1. **Baixe** o programa no botão lá em cima (ou em [Releases](https://github.com/technology-services-base44/ciadomedico-downloads/releases)). Vem um arquivo `.zip`.
 2. **Extraia** o zip: clique com o botão direito no arquivo → **Extrair tudo…** → escolha uma pasta fixa, por exemplo `Documentos`.
    > Não abra o programa de dentro do zip nem deixe na pasta Downloads (ela costuma ser limpa).
 3. Abra a pasta extraída e dê **dois cliques** no programa:
