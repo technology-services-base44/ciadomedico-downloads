@@ -6,9 +6,9 @@
 
 **Financeiro** e **Repasses de Convênios** para Windows — baixe, extraia e use.
 
-[![Baixar o Financeiro](https://img.shields.io/badge/Baixar-Financeiro%20v2.0.3-1F5FD1?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/ciadomedico-downloads/releases/download/financeiro-v2.0.3/CiaDoMedico-Financeiro-v2.0.3.zip)
+[![Baixar o Financeiro](https://img.shields.io/badge/Baixar-Financeiro%20v2.0.4-1F5FD1?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/ciadomedico-downloads/releases/download/financeiro-v2.0.4/CiaDoMedico-Financeiro-v2.0.4.zip)
 &nbsp;
-[![Baixar o Repasses de Convênios](https://img.shields.io/badge/Baixar-Repasses%20de%20Conv%C3%AAnios%20v1.2.1-059669?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/ciadomedico-downloads/releases/download/convenios-v1.2.1/CiaDoMedico-Repasses-v1.2.1.zip)
+[![Baixar o Repasses de Convênios](https://img.shields.io/badge/Baixar-Repasses%20de%20Conv%C3%AAnios%20v1.2.2-059669?style=for-the-badge&logo=windows)](https://github.com/technology-services-base44/ciadomedico-downloads/releases/download/convenios-v1.2.2/CiaDoMedico-Repasses-v1.2.2.zip)
 
 <sub>Windows 10 ou 11 · cerca de 60 MB cada · todas as versões em <a href="https://github.com/technology-services-base44/ciadomedico-downloads/releases">Releases</a></sub>
 
